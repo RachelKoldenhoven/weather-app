@@ -1,0 +1,26 @@
+body {
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  background-color: blue;
+}
+
+main {
+  margin-top: 1%;
+  margin-bottom: 10%;
+  margin-right: 5%;
+  margin-left: 5%;
+  background-color: white;
+  height: 75%;
+
+}
+
+
+
+h3, p {
+  text-align: center;
+}
+
+form {
+  display: inline-block;
+  text-align: center;
+  width: 100%;
+}
